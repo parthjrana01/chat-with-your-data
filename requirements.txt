@@ -1,0 +1,17 @@
+langchain
+langchain_community
+youtube-transcript-api
+pytube
+langchain-chroma
+sentence_transformers
+faiss-cpu
+streamlit
+PyPDF2
+
+# crewai - multi agentic system
+crewai
+crewai_tools
+groq
+langchain_groq
+load_dotenv
+langchain-huggingface
